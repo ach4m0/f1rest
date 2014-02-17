@@ -1,0 +1,268 @@
+[
+{
+    "pk": 1, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-03-15T03:00:00Z", 
+        "practice1_datetime": "2014-03-14T01:30:00Z", 
+        "race_datetime": "2014-03-16T06:00:00Z", 
+        "season": 1, 
+        "laps": 58, 
+        "race": 1, 
+        "qualify_datetime": "2014-03-15T06:00:00Z", 
+        "practice2_datetime": "2014-03-14T05:30:00Z"
+    }
+},
+{
+    "pk": 2, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-03-29T05:00:00Z", 
+        "practice1_datetime": "2014-03-28T02:00:00Z", 
+        "race_datetime": "2014-03-30T08:00:00Z", 
+        "season": 1, 
+        "laps": 56, 
+        "race": 2, 
+        "qualify_datetime": "2014-03-29T08:00:00Z", 
+        "practice2_datetime": "2014-03-28T06:00:00Z"
+    }
+},
+{
+    "pk": 3, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-04-05T12:00:00Z", 
+        "practice1_datetime": "2014-04-04T11:00:00Z", 
+        "race_datetime": "2014-04-06T15:00:00Z", 
+        "season": 1, 
+        "laps": 57, 
+        "race": 3, 
+        "qualify_datetime": "2014-04-05T15:00:00Z", 
+        "practice2_datetime": "2014-04-04T15:00:00Z"
+    }
+},
+{
+    "pk": 4, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-04-19T03:00:00Z", 
+        "practice1_datetime": "2014-04-18T02:00:00Z", 
+        "race_datetime": "2014-04-20T07:00:00Z", 
+        "season": 1, 
+        "laps": 56, 
+        "race": 4, 
+        "qualify_datetime": "2014-04-19T06:00:00Z", 
+        "practice2_datetime": "2014-04-18T06:00:00Z"
+    }
+},
+{
+    "pk": 5, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-05-10T09:00:00Z", 
+        "practice1_datetime": "2014-05-09T08:00:00Z", 
+        "race_datetime": "2014-05-11T12:00:00Z", 
+        "season": 1, 
+        "laps": 66, 
+        "race": 5, 
+        "qualify_datetime": "2014-05-10T12:00:00Z", 
+        "practice2_datetime": "2014-05-09T12:00:00Z"
+    }
+},
+{
+    "pk": 6, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-05-24T09:00:00Z", 
+        "practice1_datetime": "2014-05-22T08:00:00Z", 
+        "race_datetime": "2014-05-25T12:00:00Z", 
+        "season": 1, 
+        "laps": 78, 
+        "race": 6, 
+        "qualify_datetime": "2014-05-24T12:00:00Z", 
+        "practice2_datetime": "2014-05-22T12:00:00Z"
+    }
+},
+{
+    "pk": 7, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-06-07T14:00:00Z", 
+        "practice1_datetime": "2014-06-06T14:00:00Z", 
+        "race_datetime": "2014-06-08T18:00:00Z", 
+        "season": 1, 
+        "laps": 70, 
+        "race": 7, 
+        "qualify_datetime": "2014-06-07T17:00:00Z", 
+        "practice2_datetime": "2014-06-06T18:00:00Z"
+    }
+},
+{
+    "pk": 8, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-06-21T09:00:00Z", 
+        "practice1_datetime": "2014-06-20T08:00:00Z", 
+        "race_datetime": "2014-06-22T12:00:00Z", 
+        "season": 1, 
+        "laps": 0, 
+        "race": 8, 
+        "qualify_datetime": "2014-06-21T12:00:00Z", 
+        "practice2_datetime": "2014-06-20T12:00:00Z"
+    }
+},
+{
+    "pk": 9, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-07-05T09:00:00Z", 
+        "practice1_datetime": "2014-07-04T09:00:00Z", 
+        "race_datetime": "2014-07-06T12:00:00Z", 
+        "season": 1, 
+        "laps": 52, 
+        "race": 9, 
+        "qualify_datetime": "2014-07-05T12:00:00Z", 
+        "practice2_datetime": "2014-07-04T13:00:00Z"
+    }
+},
+{
+    "pk": 10, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-07-19T09:00:00Z", 
+        "practice1_datetime": "2014-07-18T08:00:00Z", 
+        "race_datetime": "2014-07-20T12:00:00Z", 
+        "season": 1, 
+        "laps": 67, 
+        "race": 10, 
+        "qualify_datetime": "2014-07-19T12:00:00Z", 
+        "practice2_datetime": "2014-07-18T12:00:00Z"
+    }
+},
+{
+    "pk": 11, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-07-26T09:00:00Z", 
+        "practice1_datetime": "2014-07-25T08:00:00Z", 
+        "race_datetime": "2014-07-27T12:00:00Z", 
+        "season": 1, 
+        "laps": 70, 
+        "race": 11, 
+        "qualify_datetime": "2014-07-26T12:00:00Z", 
+        "practice2_datetime": "2014-07-25T12:00:00Z"
+    }
+},
+{
+    "pk": 12, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-08-23T09:00:00Z", 
+        "practice1_datetime": "2014-08-22T08:00:00Z", 
+        "race_datetime": "2014-08-24T12:00:00Z", 
+        "season": 1, 
+        "laps": 44, 
+        "race": 12, 
+        "qualify_datetime": "2014-08-23T12:00:00Z", 
+        "practice2_datetime": "2014-08-22T12:00:00Z"
+    }
+},
+{
+    "pk": 13, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-09-06T09:00:00Z", 
+        "practice1_datetime": "2014-09-05T08:00:00Z", 
+        "race_datetime": "2014-09-07T12:00:00Z", 
+        "season": 1, 
+        "laps": 53, 
+        "race": 13, 
+        "qualify_datetime": "2014-09-06T12:00:00Z", 
+        "practice2_datetime": "2014-09-05T12:00:00Z"
+    }
+},
+{
+    "pk": 14, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-09-20T10:00:00Z", 
+        "practice1_datetime": "2014-09-19T10:00:00Z", 
+        "race_datetime": "2014-09-21T12:00:00Z", 
+        "season": 1, 
+        "laps": 61, 
+        "race": 14, 
+        "qualify_datetime": "2014-09-20T13:00:00Z", 
+        "practice2_datetime": "2014-09-19T13:30:00Z"
+    }
+},
+{
+    "pk": 15, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-10-04T02:00:00Z", 
+        "practice1_datetime": "2014-10-03T01:00:00Z", 
+        "race_datetime": "2014-10-05T06:00:00Z", 
+        "season": 1, 
+        "laps": 53, 
+        "race": 15, 
+        "qualify_datetime": "2014-10-04T05:00:00Z", 
+        "practice2_datetime": "2014-10-03T05:00:00Z"
+    }
+},
+{
+    "pk": 16, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-10-11T08:00:00Z", 
+        "practice1_datetime": "2014-10-10T06:00:00Z", 
+        "race_datetime": "2014-10-12T11:00:00Z", 
+        "season": 1, 
+        "laps": 0, 
+        "race": 16, 
+        "qualify_datetime": "2014-10-11T11:00:00Z", 
+        "practice2_datetime": "2014-10-10T10:00:00Z"
+    }
+},
+{
+    "pk": 17, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-11-01T16:00:00Z", 
+        "practice1_datetime": "2014-10-31T16:00:00Z", 
+        "race_datetime": "2014-11-02T20:00:00Z", 
+        "season": 1, 
+        "laps": 56, 
+        "race": 17, 
+        "qualify_datetime": "2014-11-01T19:00:00Z", 
+        "practice2_datetime": "2014-10-31T20:00:00Z"
+    }
+},
+{
+    "pk": 18, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-11-08T13:00:00Z", 
+        "practice1_datetime": "2014-11-07T12:00:00Z", 
+        "race_datetime": "2014-11-09T16:00:00Z", 
+        "season": 1, 
+        "laps": 71, 
+        "race": 18, 
+        "qualify_datetime": "2014-11-08T16:00:00Z", 
+        "practice2_datetime": "2014-11-07T16:00:00Z"
+    }
+},
+{
+    "pk": 19, 
+    "model": "races.grandprix", 
+    "fields": {
+        "practice3_datetime": "2014-11-22T10:00:00Z", 
+        "practice1_datetime": "2014-11-21T09:00:00Z", 
+        "race_datetime": "2014-11-23T13:00:00Z", 
+        "season": 1, 
+        "laps": 55, 
+        "race": 19, 
+        "qualify_datetime": "2014-11-22T13:00:00Z", 
+        "practice2_datetime": "2014-11-21T13:00:00Z"
+    }
+}
+]

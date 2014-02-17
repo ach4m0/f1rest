@@ -1,0 +1,325 @@
+[
+{
+    "pk": 1,
+    "model": "races.race",
+    "fields": {
+        "distance": 307574,
+        "name": "2014 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:24.125",
+        "country": 11,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 5303,
+        "active": true,
+        "circuit_name": "Albert Park",
+        "lap_record_driver": "M Schumacher"
+    }
+},
+{
+    "pk": 2,
+    "model": "races.race",
+    "fields": {
+        "distance": 310408,
+        "name": "2014 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:34.223",
+        "country": 12,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 5543,
+        "active": true,
+        "circuit_name": "Sepang International Circuit",
+        "lap_record_driver": "JP Montoya"
+    }
+},
+{
+    "pk": 3,
+    "model": "races.race",
+    "fields": {
+        "distance": 308238,
+        "name": "2014 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:31.447",
+        "country": 13,
+        "longitude": "1",
+        "lap_record_year": 2005,
+        "circuit_length": 5412,
+        "active": true,
+        "circuit_name": "Bahrain International Circuit",
+        "lap_record_driver": "P De la Rosa"
+    }
+},
+{
+    "pk": 4,
+    "model": "races.race",
+    "fields": {
+        "distance": 305066,
+        "name": "2014 FORMULA 1 UBS CHINESE GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:32.238",
+        "country": 14,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 5451,
+        "active": true,
+        "circuit_name": "Shanghai International Circuit",
+        "lap_record_driver": "M Schumacher"
+    }
+},
+{
+    "pk": 5,
+    "model": "races.race",
+    "fields": {
+        "distance": 307104,
+        "name": "FORMULA 1 GRAN PREMIO DE ESPA\u00d1A 2014",
+        "latitude": "1",
+        "lap_record_time": "1:21.670",
+        "country": 15,
+        "longitude": "1",
+        "lap_record_year": 2008,
+        "circuit_length": 4655,
+        "active": true,
+        "circuit_name": "Circuit de Barcelona-Catalunya",
+        "lap_record_driver": "K Raikkonen"
+    }
+},
+{
+    "pk": 6,
+    "model": "races.race",
+    "fields": {
+        "distance": 260520,
+        "name": "FORMULA 1 GRAND PRIX DE MONACO 2014",
+        "latitude": "1",
+        "lap_record_time": "1:14.439",
+        "country": 16,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 3340,
+        "active": true,
+        "circuit_name": "Circuit de Monaco",
+        "lap_record_driver": "M Schumacher"
+    }
+},
+{
+    "pk": 7,
+    "model": "races.race",
+    "fields": {
+        "distance": 305270,
+        "name": "FORMULA 1 GRAND PRIX DU CANADA 2014",
+        "latitude": "1",
+        "lap_record_time": "1:13.622",
+        "country": 17,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 4361,
+        "active": true,
+        "circuit_name": "Circuit Gilles-Villeneuve",
+        "lap_record_driver": "R Barrichello"
+    }
+},
+{
+    "pk": 8,
+    "model": "races.race",
+    "fields": {
+        "distance": 0,
+        "name": "FORMULA 1 GROSSER PREIS VON \u00d6STERREICH 2014",
+        "latitude": "1",
+        "lap_record_time": "1'08.337",
+        "country": 18,
+        "longitude": "1",
+        "lap_record_year": 2003,
+        "circuit_length": 4326,
+        "active": true,
+        "circuit_name": "PENDIENTE",
+        "lap_record_driver": "M. Schumacher"
+    }
+},
+{
+    "pk": 9,
+    "model": "races.race",
+    "fields": {
+        "distance": 306198,
+        "name": "2014 FORMULA 1 SANTANDER BRITISH GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:33.401",
+        "country": 4,
+        "longitude": "1",
+        "lap_record_year": 2013,
+        "circuit_length": 5891,
+        "active": true,
+        "circuit_name": "Silverstone",
+        "lap_record_driver": "M Webber"
+    }
+},
+{
+    "pk": 10,
+    "model": "races.race",
+    "fields": {
+        "distance": 306458,
+        "name": "FORMULA 1 GROSSER PREIS SANTANDER VON DEUTSCHLAND 2014",
+        "latitude": "1",
+        "lap_record_time": "1:13.780",
+        "country": 2,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 4574,
+        "active": true,
+        "circuit_name": "Hockenheimring",
+        "lap_record_driver": "K Raikkonen"
+    }
+},
+{
+    "pk": 11,
+    "model": "races.race",
+    "fields": {
+        "distance": 306630,
+        "name": "FORMULA 1 MAGYAR NAGYD\u00cdJ 2014",
+        "latitude": "2",
+        "lap_record_time": "1:19.071",
+        "country": 19,
+        "longitude": "2",
+        "lap_record_year": 2004,
+        "circuit_length": 4381,
+        "active": true,
+        "circuit_name": "Hungaroring",
+        "lap_record_driver": "M Schumacher"
+    }
+},
+{
+    "pk": 12,
+    "model": "races.race",
+    "fields": {
+        "distance": 308052,
+        "name": "2014 FORMULA 1 SHELL BELGIAN GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:47.263",
+        "country": 20,
+        "longitude": "1",
+        "lap_record_year": 2009,
+        "circuit_length": 7004,
+        "active": true,
+        "circuit_name": "Circuit de Spa-Francorchamps",
+        "lap_record_driver": "S Vettel"
+    }
+},
+{
+    "pk": 13,
+    "model": "races.race",
+    "fields": {
+        "distance": 306720,
+        "name": "FORMULA 1 GRAN PREMIO D'ITALIA 2014",
+        "latitude": "1",
+        "lap_record_time": "1:21.046",
+        "country": 21,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 5793,
+        "active": true,
+        "circuit_name": "Autodromo di Monza",
+        "lap_record_driver": "R Barrichello"
+    }
+},
+{
+    "pk": 14,
+    "model": "races.race",
+    "fields": {
+        "distance": 308828,
+        "name": "2014 FORMULA 1 SINGAPORE GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:48.574",
+        "country": 22,
+        "longitude": "1",
+        "lap_record_year": 2013,
+        "circuit_length": 5065,
+        "active": true,
+        "circuit_name": "Marina Bay Street Circuit",
+        "lap_record_driver": "S Vettel"
+    }
+},
+{
+    "pk": 15,
+    "model": "races.race",
+    "fields": {
+        "distance": 307471,
+        "name": "2014 FORMULA 1 JAPANESE GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:31.540",
+        "country": 23,
+        "longitude": "1",
+        "lap_record_year": 2005,
+        "circuit_length": 5807,
+        "active": true,
+        "circuit_name": "null",
+        "lap_record_driver": "K Raikkonen"
+    }
+},
+{
+    "pk": 16,
+    "model": "races.race",
+    "fields": {
+        "distance": 0,
+        "name": "2014 FORMULA 1 RUSSIAN GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "null",
+        "country": 7,
+        "longitude": "1",
+        "lap_record_year": 2014,
+        "circuit_length": 5853,
+        "active": true,
+        "circuit_name": "null",
+        "lap_record_driver": "null"
+    }
+},
+{
+    "pk": 17,
+    "model": "races.race",
+    "fields": {
+        "distance": 308405,
+        "name": "2014 FORMULA 1 UNITED STATES GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:39.347",
+        "country": 24,
+        "longitude": "1",
+        "lap_record_year": 2012,
+        "circuit_length": 5513,
+        "active": true,
+        "circuit_name": "Circuit of The Americas",
+        "lap_record_driver": "S Vettel"
+    }
+},
+{
+    "pk": 18,
+    "model": "races.race",
+    "fields": {
+        "distance": 305909,
+        "name": "FORMULA 1 GRANDE PR\u00caMIO DO BRASIL 2014",
+        "latitude": "1",
+        "lap_record_time": "1:11.473",
+        "country": 10,
+        "longitude": "1",
+        "lap_record_year": 2004,
+        "circuit_length": 4309,
+        "active": true,
+        "circuit_name": "Autodromo Jose Carlos Pace",
+        "lap_record_driver": "JP Montoya"
+    }
+},
+{
+    "pk": 19,
+    "model": "races.race",
+    "fields": {
+        "distance": 305355,
+        "name": "2014 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX",
+        "latitude": "1",
+        "lap_record_time": "1:40.279",
+        "country": 25,
+        "longitude": "1",
+        "lap_record_year": 2009,
+        "circuit_length": 5554,
+        "active": true,
+        "circuit_name": "null",
+        "lap_record_driver": "S Vettel"
+    }
+}
+]
