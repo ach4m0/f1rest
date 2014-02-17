@@ -1,0 +1,310 @@
+[
+{
+    "pk": 1,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Fernando Alonso",
+        "country": 15,
+        "birthday": "1981-07-29",
+        "championships": 2,
+        "team": 1,
+        "active": true,
+        "shortname": "ALO"
+    }
+},
+{
+    "pk": 2,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Kimi R\u00e4ikk\u00f6nen",
+        "country": 1,
+        "birthday": "1979-10-17",
+        "championships": 1,
+        "team": 1,
+        "active": true,
+        "shortname": "RAI"
+    }
+},
+{
+    "pk": 3,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Sebastian Vettel",
+        "country": 2,
+        "birthday": "1987-07-03",
+        "championships": 4,
+        "team": 2,
+        "active": true,
+        "shortname": "VET"
+    }
+},
+{
+    "pk": 4,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Jules Bianchi",
+        "country": 3,
+        "birthday": "1989-08-03",
+        "championships": 0,
+        "team": 6,
+        "active": true,
+        "shortname": "BIA"
+    }
+},
+{
+    "pk": 5,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Valtteri Bottas",
+        "country": 1,
+        "birthday": "1989-08-28",
+        "championships": 0,
+        "team": 11,
+        "active": true,
+        "shortname": "BOT"
+    }
+},
+{
+    "pk": 6,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Jenson Button",
+        "country": 4,
+        "birthday": "1980-01-19",
+        "championships": 1,
+        "team": 7,
+        "active": true,
+        "shortname": "BUT"
+    }
+},
+{
+    "pk": 7,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Max Chilton",
+        "country": 4,
+        "birthday": "1991-04-21",
+        "championships": 0,
+        "team": 6,
+        "active": true,
+        "shortname": "CHI"
+    }
+},
+{
+    "pk": 8,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Marcus Ericsson",
+        "country": 5,
+        "birthday": "1990-09-02",
+        "championships": 0,
+        "team": 3,
+        "active": true,
+        "shortname": "ERC"
+    }
+},
+{
+    "pk": 9,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Romain Grosjean",
+        "country": 3,
+        "birthday": "1986-04-17",
+        "championships": 0,
+        "team": 5,
+        "active": true,
+        "shortname": "GRO"
+    }
+},
+{
+    "pk": 10,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Esteban Gutierrez",
+        "country": 6,
+        "birthday": "1991-08-05",
+        "championships": 0,
+        "team": 9,
+        "active": true,
+        "shortname": "GUT"
+    }
+},
+{
+    "pk": 11,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Lewis Hamilton",
+        "country": 4,
+        "birthday": "1985-01-07",
+        "championships": 1,
+        "team": 8,
+        "active": true,
+        "shortname": "HAM"
+    }
+},
+{
+    "pk": 12,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Nico Hulkenberg",
+        "country": 2,
+        "birthday": "1987-08-19",
+        "championships": 0,
+        "team": 4,
+        "active": true,
+        "shortname": "HUL"
+    }
+},
+{
+    "pk": 13,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Kamui Kobayashi",
+        "country": 23,
+        "birthday": "1986-09-13",
+        "championships": 0,
+        "team": 3,
+        "active": true,
+        "shortname": "KOB"
+    }
+},
+{
+    "pk": 14,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Daniil Kvyat",
+        "country": 7,
+        "birthday": "1994-04-26",
+        "championships": 0,
+        "team": 10,
+        "active": true,
+        "shortname": "KVY"
+    }
+},
+{
+    "pk": 15,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Kevin Magnussen",
+        "country": 8,
+        "birthday": "1992-10-05",
+        "championships": 0,
+        "team": 7,
+        "active": true,
+        "shortname": "MAG"
+    }
+},
+{
+    "pk": 16,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Pastor Maldonado",
+        "country": 9,
+        "birthday": "1985-03-09",
+        "championships": 0,
+        "team": 5,
+        "active": true,
+        "shortname": "MAL"
+    }
+},
+{
+    "pk": 17,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Felipe Massa",
+        "country": 10,
+        "birthday": "1981-04-25",
+        "championships": 0,
+        "team": 11,
+        "active": true,
+        "shortname": "MAS"
+    }
+},
+{
+    "pk": 18,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Sergio Perez",
+        "country": 6,
+        "birthday": "1990-01-26",
+        "championships": 0,
+        "team": 4,
+        "active": true,
+        "shortname": "PER"
+    }
+},
+{
+    "pk": 19,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Daniel Ricciardo",
+        "country": 11,
+        "birthday": "1989-07-01",
+        "championships": 0,
+        "team": 2,
+        "active": true,
+        "shortname": "RIC"
+    }
+},
+{
+    "pk": 20,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "SD",
+        "name": "Nico Rosberg",
+        "country": 2,
+        "birthday": "1985-06-27",
+        "championships": 0,
+        "team": 8,
+        "active": true,
+        "shortname": "ROS"
+    }
+},
+{
+    "pk": 21,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Adrian Sutil",
+        "country": 2,
+        "birthday": "1983-01-11",
+        "championships": 0,
+        "team": 9,
+        "active": true,
+        "shortname": "SUT"
+    }
+},
+{
+    "pk": 22,
+    "model": "drivers.driver",
+    "fields": {
+        "driver_type": "FD",
+        "name": "Jean-Eric Vergne",
+        "country": 3,
+        "birthday": "1990-04-25",
+        "championships": 0,
+        "team": 10,
+        "active": true,
+        "shortname": "VER"
+    }
+}
+]

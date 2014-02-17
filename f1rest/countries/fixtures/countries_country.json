@@ -1,0 +1,177 @@
+[
+{
+    "pk": 1, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Finlandia"
+    }
+},
+{
+    "pk": 2, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Alemania"
+    }
+},
+{
+    "pk": 3, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Francia"
+    }
+},
+{
+    "pk": 4, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Inglaterra"
+    }
+},
+{
+    "pk": 5, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Suecia"
+    }
+},
+{
+    "pk": 6, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "M\u00e9xico"
+    }
+},
+{
+    "pk": 7, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Rusia"
+    }
+},
+{
+    "pk": 8, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Dinamarca"
+    }
+},
+{
+    "pk": 9, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Venezuela"
+    }
+},
+{
+    "pk": 10, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Brasil"
+    }
+},
+{
+    "pk": 11, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Australia"
+    }
+},
+{
+    "pk": 12, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Malasia"
+    }
+},
+{
+    "pk": 13, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Bar\u00e9in"
+    }
+},
+{
+    "pk": 14, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "China"
+    }
+},
+{
+    "pk": 15, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Espa\u00f1a"
+    }
+},
+{
+    "pk": 16, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "M\u00f3naco"
+    }
+},
+{
+    "pk": 17, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Canad\u00e1"
+    }
+},
+{
+    "pk": 18, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Austria"
+    }
+},
+{
+    "pk": 19, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Hungr\u00eda"
+    }
+},
+{
+    "pk": 20, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "B\u00e9lgica"
+    }
+},
+{
+    "pk": 21, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Italia"
+    }
+},
+{
+    "pk": 22, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Singapur"
+    }
+},
+{
+    "pk": 23, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Jap\u00f3n"
+    }
+},
+{
+    "pk": 24, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Estados Unidos"
+    }
+},
+{
+    "pk": 25, 
+    "model": "countries.country", 
+    "fields": {
+        "name": "Abu Dhabi"
+    }
+}
+]
