@@ -6,4 +6,4 @@ heroku==0.1.4
 python-dateutil==1.5
 requests==2.2.1
 wsgiref==0.1.2
-psycopg2=*
+psycopg2==2.5.2
