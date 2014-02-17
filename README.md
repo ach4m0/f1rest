@@ -14,3 +14,8 @@ python manage.py syncdb
 python manage.py loaddata fixtures/*
 ```
 
+URL
+----
+
+http://f1rest.herokuapp.com/
+
