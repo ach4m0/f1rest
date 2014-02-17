@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
+# To Heroku database config
+import dj_database_url
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
@@ -68,6 +70,11 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'f1rest.sqlite3'),
     }
 }
+
+# Heroku environment overwrite database config
+if dj_database_url.config():
+    DATABASES['default'] =  dj_database_url.config()
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
